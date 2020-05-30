@@ -30,7 +30,7 @@ body {
   padding-top: 150px;
 }
 
-#home-section .fas {
+#home-section .fas, #create-section .fas{
   color: #008ee6;
   background: #fff;
   padding: 5px;
