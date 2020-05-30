@@ -36,3 +36,12 @@ body {
   padding: 5px;
   border-radius: 5px;
 }
+
+/* EXPLORE SECTION */
+#explore-section .fas,
+#share-section .fas {
+  background: #333;
+  color: #fff;
+  padding: 5px;
+  border-radius: 5px;
+}
